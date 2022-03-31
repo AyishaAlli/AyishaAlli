@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🌱 I’m currently learning Fullstack web development including Java, JavaScript and SGL
+- 🌱 I’m currently learning Fullstack web development including Java, JavaScript and SQL
 - 📫 How to reach me: alli.ayisha1@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Im a professional Rollerskater in my free time
